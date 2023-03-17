@@ -1,0 +1,129 @@
+* {
+    font-family: "Roboto";
+}
+
+#navbar img {
+    width: 40px;
+}
+
+#navbar {
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 5px;
+}
+
+#navbar a {
+    font-size: 14px;
+    color: #757575;
+}
+
+#navbar a:hover {
+    color: blue;
+}
+
+#search-container {
+    background-image: url("../img/search_img.jpg");
+    background-color: cover;
+    background-position: center;
+    height: 400px;
+    padding: 50px;
+    text-align: center;
+}
+
+#search-container h1 {
+    color: blue;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+
+#search-container form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+body {
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+
+.msg {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
+
+.row {
+    margin: 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+#tasks-container {
+    padding: 50px;
+}
+
+#tasks-container h2 {
+    margin-bottom: 10px;
+}
+
+#tasks-container .card {
+    flex: 1 1 0;
+    max-width: 25%;
+    border-radius: 10px;
+    padding: 0;
+    margin: 5px;
+}
+
+#cards-container {
+    display: flex;
+}
+
+.card .card-title {
+    color: #212121;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card .card-subtitle {
+    font-size: 18px;
+}
+
+#task-create-container {
+    padding: 30px;
+}
+
+#task-create-container label {
+    font-weight: bold;
+}
+
+#task-create-container input,
+#task-create-container select {
+    font-size: 12px;
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    background-color: #353e48;
+    color: #fff;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
+}
