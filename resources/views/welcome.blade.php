@@ -6,7 +6,7 @@
 
 <div id="search-container" class="col-md-12">
     @auth
-        <h1>Busque uma tafera</h1>
+        <h1>Busque uma tarefa</h1>
         <form action="/" method="GET">
             <input type="text" id="search" name="search" class="form-control" placeholder="Procurar...">
         </form>
