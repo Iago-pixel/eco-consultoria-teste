@@ -8,7 +8,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-evenly;" align="center">
+<div style="display: flex" align="center">
     <img src="./public/img/php.svg" width="100">
     <img src="./public/img/laravel.svg" width="100">
     <img src="./public/img/xampp.svg" width="100">
