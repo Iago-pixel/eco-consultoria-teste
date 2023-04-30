@@ -1,4 +1,4 @@
-<center><img src="./public/img/LogoEco.png"></center>
+<div style="text-align: center"><img src="./public/img/LogoEco.png"></div>
 
 <br>
 
@@ -8,10 +8,10 @@
 
 <br>
 
-<img src="./public/img/php.svg" width="100">
-<img src="./public/img/laravel.svg" width="100">
-<img src="./public/img/xampp.svg" width="100">
-<img src="./public/img/mysql.svg" width="100">
+<img src="./public/img/php.svg" width="100" style="displey: inline-box">
+<img src="./public/img/laravel.svg" width="100" style="displey: inline-box">
+<img src="./public/img/xampp.svg" width="100" style="displey: inline-box">
+<img src="./public/img/mysql.svg" width="100" style="displey: inline-box">
 
 <br>
 
