@@ -8,10 +8,12 @@
 
 <br>
 
-<img src="./public/img/php.svg" width="100" style="display: flex">
-<img src="./public/img/laravel.svg" width="100" style="display: flex">
-<img src="./public/img/xampp.svg" width="100" style="display: flex">
-<img src="./public/img/mysql.svg" width="100" style="display: flex">
+<div style="display: flex">
+    <img src="./public/img/php.svg" width="100">
+    <img src="./public/img/laravel.svg" width="100">
+    <img src="./public/img/xampp.svg" width="100">
+    <img src="./public/img/mysql.svg" width="100">
+</div>
 
 <br>
 
